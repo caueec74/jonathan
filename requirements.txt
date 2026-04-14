@@ -1,0 +1,8 @@
+simpy
+matplotlib
+pandas
+openpyxl
+pyinstaller
+pywin32; platform_system == "Windows"
+
+build.yml
